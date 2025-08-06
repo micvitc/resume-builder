@@ -1,4 +1,4 @@
-# Contributing to MIC Academic Assistant
+# Contributing to MIC Resume Builder
 ## 1. Fork and Clone the Repository
 1. Click the "Fork" button at the top right of [this repo](https://github.com/micvitc/resume-builder).
 2. Clone your forked copy:
